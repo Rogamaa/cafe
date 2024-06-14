@@ -1,4 +1,4 @@
-// arquivo: tests/menuManager.test.js
+// arquivo: menuManager.test.js
 const menuManager = require('../menuManager');
 
 test('Adiciona item ao cardápio', () => {
