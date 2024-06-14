@@ -19,8 +19,12 @@ npm start
 Acesse o Projeto: abra um navegador e acesse o endereço local fornecido, http://localhost:3000, para ver o projeto em execução.
 
 Teste: Faça alterações no código conforme necessário e teste as funcionalidades. Se você tiver testes automatizados configurados, execute-os com o comando npm test (ou o comando específico para seus testes).
-
+### Uso
 ```bash
+const menuManager = require('seu-projeto');
+
+menuManager.addItem('Café', 2.99);
+
 git clone https://github.com/Rogamaa/cafe.git
 cd seu-repositorio
 npm install
