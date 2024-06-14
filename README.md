@@ -1,3 +1,4 @@
+# TODOS OS ITEM ESTÃO EM "MASTER"
 # projeto cafe
 
 projeto para faculdade PUCPR, tendo a posibilidade de adiconar, remover e editar items de cardapio
