@@ -4,7 +4,7 @@ projeto para faculdade PUCPR, tendo a posibilidade de adiconar, remover e editar
 
 ## Início Rápido
 
-Clone o Repositório: Abra o terminal ou prompt de comando e navegue até o diretório onde deseja clonar o projeto. Use o comando git clone, seguido pelo URL do seu repositório no GitHub. Por exemplo:
+Clone o Repositório: Abra o terminal ou prompt de comando e navegue até o diretório onde deseja clonar o projeto. Use o comando git clone, seguido pelo URL do seu repositório no GitHub:
 git clone https://github.com/Rogamaa/cafe.git
 
 Navegue até o Diretório do Projeto: Após clonar o repositório, use o comando cd para entrar no diretório do projeto:
